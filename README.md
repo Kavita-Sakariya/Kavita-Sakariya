@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavita Sakariya</h1>
 <h3 align="center">
     I am a computer engineering student, passionate about my journey as a learner
-    in the world of full-stack development.
+    in the world of Web development.
 </h3>
 
 <p align="left">
